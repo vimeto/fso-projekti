@@ -1,0 +1,30 @@
+Notes about fullstackopen project
+Techs:
+- Node
+    - TS
+- React
+    - TS
+- GraphQL
+- MongoDB / PostgreSQL
+- Docker
+- next.js
+- Session based authentication
+
+Ideas
+- NFT / stock / crypto dashboard
+    - Data mod. Rust / Python
+    - Websocket data mod. -> backend / data mod -> database (in docker?) <-> backend
+- Boilerplate something
+- ladulle.fi?
+- Strava?
+- opiskelija elömään joku juttu, tapahtumakalenteri yms. asioiden myyntiä/antamista
+
+
+Linkkejä:
+https://github.com/mrako/nats-example
+https://github.com/trail/terminal-ruuvitag
+https://devopswithdocker.com
+https://www.freeed.com
+https://github.com/trail/terminal-pricing
+https://github.com/trail/terminal-qrcode
+https://github.com/eficode/tscli
