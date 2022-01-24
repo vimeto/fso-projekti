@@ -6,6 +6,7 @@ Techs:
     - TS
 - GraphQL
 - MongoDB / PostgreSQL
+- Redis?
 - Docker
 - next.js
 - Session based authentication
